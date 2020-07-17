@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub Logo](https://user-images.githubusercontent.com/49874175/87637435-64d07580-c76c-11ea-9983-a127f3f831b9.png)
+![GitHub Logo](https://user-images.githubusercontent.com/49874175/87801072-65a2fd80-c879-11ea-8b22-194d1c6e98aa.png)
 
 <!--
 **pepega90/pepega90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
