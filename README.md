@@ -9,6 +9,9 @@
 > github: pepega90
 > facebook: Aji Mustofa
 ````
+> I’ve always been more interested
+> in the future than in the past.
+
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
