@@ -9,9 +9,6 @@
 > github: pepega90
 > facebook: Aji Mustofa
 ````
-> "If You're Good at Something Never Do it for Free" 
-> -
-> Joker
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
