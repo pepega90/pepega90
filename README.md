@@ -9,8 +9,8 @@
 > github: pepega90
 > facebook: Aji Mustofa
 ````
-> I’ve always been more interested
-> in the future than in the past.
+> "If You're Good at Something Never Do it for Free"
+< - Joker
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
