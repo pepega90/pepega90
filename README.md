@@ -9,12 +9,6 @@
 > github: pepega90
 > facebook: Aji Mustofa
 ````
-
-First Header | Second Header
------------- | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
-
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
