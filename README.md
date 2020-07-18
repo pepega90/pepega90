@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aji Mustofa</h1>
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
-````bash
+```bash
 > help --contact
 > instagram: pepega90
 > github: pepega90
 > facebook: Aji Mustofa
-````
+```
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
