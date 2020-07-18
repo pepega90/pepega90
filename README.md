@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Aji Mustofa</h1>
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
 
+<img align="center" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 ````bash
 > help --contact
 > instagram: pepega90
