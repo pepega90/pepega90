@@ -11,6 +11,7 @@
 ````
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
+ ```javascript
   const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
@@ -23,4 +24,5 @@
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
+```
 </p>
