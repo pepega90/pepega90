@@ -11,7 +11,7 @@ const aji = {
     technologies: {
         frontEnd: {
             js: ["React.js"],
-            css: ["materialize", "redux", "bootstrap", "bulma"]
+            css: ["materialize", "bootstrap", "bulma"]
         },
         backEnd: {
             js: ["node", "express"],
