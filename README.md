@@ -3,12 +3,6 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/l0EtMsQGaTomxzzIk/giphy.gif" />
 
-````bash
-> help --contact
-> instagram: pepega90
-> github: pepega90
-> facebook: Aji Mustofa
-````
  ```javascript
 const aji = {
     pronouns: "He" | "Him",
@@ -21,9 +15,17 @@ const aji = {
         },
         backEnd: {
             js: ["node", "express"],
-            C#: ["ASP.NET Core"]
+            csharp ["ASP.NET Core"]
         },
         databases: ["mongo", "MySql", "PostgreSQL"]
     }
 };
 ```
+
+````bash
+> help --contact
+> instagram: pepega90
+> github: pepega90
+> facebook: Aji Mustofa
+````
+
