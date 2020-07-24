@@ -10,7 +10,7 @@
 > facebook: Aji Mustofa
 ````
 <h4 align="left">Languages and Tools:</h4>
-<p align="left">
+
  ```javascript
   const thai = {
   pronouns: "she" | "her",
@@ -25,4 +25,3 @@
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
-</p>
