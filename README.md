@@ -9,19 +9,21 @@
 > github: pepega90
 > facebook: Aji Mustofa
 ````
-<h4 align="left">Languages and Tools:</h4>
-
  ```javascript
-  const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+const aji = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "C#"],
+    askMeAbout: ["web dev", "tech", "Dota 2", "CSGO"],
+    technologies: {
+        frontEnd: {
+            js: ["React.js"],
+            css: ["materialize", "redux", "bootstrap", "bulma"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            C#: ["ASP.NET Core"]
+        },
+        databases: ["mongo", "MySql", "PostgreSQL"]
+    }
+};
 ```
