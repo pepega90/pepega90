@@ -15,7 +15,7 @@ const aji = {
         },
         backEnd: {
             js: ["node", "express"],
-            c#: ["ASP.NET Core"]
+            csharp: ["ASP.NET Core"]
         },
         databases: ["mongo", "MySql", "PostgreSQL"]
     }
