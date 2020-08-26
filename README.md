@@ -1,5 +1,4 @@
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Aji Mustofa</h2>
-<h3 align="center">A passionate Web Developer</h3>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/l0EtMsQGaTomxzzIk/giphy.gif" />
 
